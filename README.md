@@ -14,7 +14,7 @@ I write code that works in my local, and I want to focus on solving real problem
 | Element | Tools |
 | :--- | :--- |
 | **Core Logic** | `C++` (The Wisdom), `Python` (The Practical), `C#` (The Discipline) `TypeScript` (The Discipline)|
-| **Architecture** | `Qt`, `Dash`, `React / Next.js`, `.NET` |
+| **Architecture** | `Qt`, `ROS`,`Dash`, `React / Next.js`, `.NET` |
 | **Infrastructure** | `Docker`, `WSL2`, `Ubuntu` |
 
 ---
