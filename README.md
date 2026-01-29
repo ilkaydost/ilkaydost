@@ -9,12 +9,12 @@ A Software Engineer with EE Engineering bachelor. Currently studing on Master De
 
 ### Project Highlights (A.K.A. University Days - Until 2020)
 
- - **Autonomous Rc Vehicle (2018):** It was university electronics 2 course project *YoutubeLink:* https://www.youtube.com/watch?v=4Nb80rs3ln4&t=1s
- - **TheShortestPathFinderWithGui (2019):** It was university project to find shortest path given nodes using Qt
- - **Unity Based Game (2019):** Simple game with using Unity for Electronics 2 course. *YoutubeLink:* https://youtu.be/TTV0rXFaxtg
- - **BasicPathFollower (2020):** It is basic path following algorithm for university project. It is creates path according to set points in x-y coordinates. Then it follows
- - **BasicMessageParser (2022):** Just warm-up five year old kid style, too basic project
- - **PointCloudLab (2026):** Implemented AI-aided, profesional looking point cloud analyzer application - (Development in progress)
+ - **[Autonomous Rc Vehicle (2018)](https://www.youtu.be/4Nb80rs3ln4):** It was university 'Electronics 1 course' project, and It is my first and favorite one :)
+ - **[TheShortestPathFinderWithGui (2019)](https://github.com/ilkaydost/TheSortestPathFinderWithGraphGuiWithQt):** It was university project to find shortest path given nodes using Qt
+ - **[Unity Based Game (2019)](https://youtu.be/TTV0rXFaxtg):** Simple game with using Unity for Electronics 2 course
+ - **[BasicPathFollower (2020)](https://github.com/ilkaydost/BasicPathFollower):** It is basic path following algorithm for tricycle vehicle. It is creates path according to set points in x-y coordinates then interpolates. Then it follows path according tricyle vehicle steering dynamics
+ - **[BasicMessageParser (2022)](https://github.com/ilkaydost/BasicMessageParser):** Just warm-up five year old kid style, too basic project
+ - **[PointCloudLab (2026)](https://github.com/ilkaydost/PointCloudLib):** Implemented AI-aided, profesional looking point cloud analyzer application - (Development in progress)
 ---
 
 ### 🛠 Technical Stations (Tech Stack)
