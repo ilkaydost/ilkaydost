@@ -7,7 +7,7 @@ A Software Engineer with EE Engineering bachelor. Currently studing on Master De
 
 **Motto :** This guy writes code that works in her local. He focus on solving real problems, with decorating solutions.
 
-### Project Highlights (A.K.A. University Days - Until 2020)
+### Project Highlights (University Days - Until 2020)
 
  - **[Autonomous Rc Vehicle (2018)](https://www.youtu.be/4Nb80rs3ln4):** It was university 'Electronics 1 course' project, and It is my first and favorite one :)
  - **[TheShortestPathFinderWithGui (2019)](https://github.com/ilkaydost/TheSortestPathFinderWithGraphGuiWithQt):** It was university project to find shortest path given nodes using Qt
