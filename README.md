@@ -2,11 +2,10 @@
 
 ### 📜 Personal Manifesto
 
-Software Engineer with EE Engineering bachelor.
+A Software Engineer with EE Engineering bachelor. Currently studing on Master Degree in Computer Science and, Works at a company called AVL
 
-I write code that works in my local, and I want to focus on solving real problems, with decorating solutions.
+**Motto :** This guy writes code that works in her local. He focus on solving real problems, with decorating solutions.
 
-"When you encounter a problem, you either solve it or learn to live with it. I choose to live with it." 
 ---
 
 ### 🛠 Technical Stations (Tech Stack)
@@ -14,12 +13,12 @@ I write code that works in my local, and I want to focus on solving real problem
 | Element | Tools |
 | :--- | :--- |
 | **Core Logic** | `C++` (The Wisdom), `Python` (The Practical), `C#` (The Discipline) `TypeScript` (The Discipline)|
-| **Architecture** | `Qt`, `ROS`,`Dash`, `React / Next.js`, `.NET` |
-| **Infrastructure** | `Docker`, `WSL2`, `Ubuntu` |
+| **Architecture** | `Qt`, `ROS`, `Dash`, `React / Next.js`, `.NET` |
+| **Infrastructure** | `Ubuntu`, `WSL2`, `Docker` |
 
 ---
 
-### 🏝  TO:DO's -- (Upcoming/Plannings Projects)  :
+### 🏝  TO:DO's -- (Upcoming Plannings\Projects)  :
 - **PCL Visualization:** Interpreting point cloud data tools UI.
 - **Recommender Systems:** Algorithms that encapsulate human preferences in matrices and tell them what to like.
 - 🇳🇱 **Relocation.py:(Manifest)** Optimizing environmental variables for `target_location = "Netherlands"`.
