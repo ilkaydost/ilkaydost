@@ -37,3 +37,6 @@ A Software Engineer with EE Engineering bachelor. Currently studing on Master De
  - Open an issue
  - Send a PR
  - Or just steal the idea and move on
+---
+
+I goty stalker ```   ```  ![](https://komarev.com/ghpvc/?username=ilkaydost)
