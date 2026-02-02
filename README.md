@@ -9,7 +9,7 @@ A Software Engineer with EE Engineering bachelor. Currently studing on Master De
 
 ### Project Highlights (University Days - Until 2020)
 
- - **[Autonomous Rc Vehicle (2018)](https://www.youtu.be/4Nb80rs3ln4):** It was university 'Electronics 1 course' project, and It is my first and favorite one :)
+ - **[Autonomous Rc Vehicle (2018)](https://www.youtube.com/watch?v=4Nb80rs3ln4):** It was university 'Electronics 1 course' project, and It is my first and favorite one :)
  - **[TheShortestPathFinderWithGui (2019)](https://github.com/ilkaydost/TheSortestPathFinderWithGraphGuiWithQt):** It was university project to find shortest path given nodes using Qt
  - **[Unity Based Game (2019)](https://youtu.be/TTV0rXFaxtg):** Simple game with using Unity for Electronics 2 course
  - **[BasicPathFollower (2020)](https://github.com/ilkaydost/BasicPathFollower):** It is basic path following algorithm for tricycle vehicle. It is creates path according to set points in x-y coordinates then interpolates. Then it follows path according tricyle vehicle steering dynamics
